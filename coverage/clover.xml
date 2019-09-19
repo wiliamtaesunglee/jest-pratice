@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1568811022772" clover="3.2.0">
-  <project timestamp="1568811022772" name="All files">
-    <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="9" coveredelements="9" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
-    <file name="every-recursive.js" path="/Users/wiliam/Documents/front/jest-pratice/src/every/every-recursive.js">
-      <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
-      <line num="4" count="5" type="stmt"/>
-      <line num="5" count="14" type="stmt"/>
-      <line num="7" count="14" type="cond" truecount="2" falsecount="0"/>
+<coverage generated="1568896500125" clover="3.2.0">
+  <project timestamp="1568896500125" name="All files">
+    <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="5" coveredelements="5" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
+    <file name="some.js" path="/Users/wiliam/Documents/front/jest-pratice/src/some/some.js">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="3" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
