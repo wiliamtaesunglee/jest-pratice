@@ -7,4 +7,3 @@ export default (arr, func) => {
 
     })(arr, 0)
 }
-          
