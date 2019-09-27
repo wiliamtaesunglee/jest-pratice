@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a13ddb3c-5755-4c67-bc5f-24eaad1782d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coverage/clover.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/clover.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/coverage-final.json" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/coverage-final.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/every/every-recursive.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/every/every-recursive.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/every/every.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/every/every.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/every/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/every/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/filter/filter-recursive.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/filter/filter-recursive.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/filter/filter.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/filter/filter.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/filter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/filter/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coverage/lcov-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/map/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/map/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/map/map-recursive.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/map/map-recursive.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/map/map.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/map/map.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/some.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/some.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov.info" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/some/some-recursive.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/some/some-recursive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/reduce-recursive.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/reduce-recursive.js.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +58,7 @@
       <workItem from="1568892520164" duration="4136000" />
       <workItem from="1568978148643" duration="3448000" />
       <workItem from="1569240881745" duration="5053000" />
-      <workItem from="1569583411538" duration="1542000" />
+      <workItem from="1569583411538" duration="2078000" />
     </task>
     <servers />
   </component>
